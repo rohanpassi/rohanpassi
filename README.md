@@ -6,14 +6,14 @@
   <p>📍 Seattle, WA</p>
 
   <p align="center">
-    <a href="https://github.com/rohanpassi">
+    <a href="https://github.com/rohanpassi" target="_blank" rel="noopener noreferrer">
       <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=19&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&width=550&lines=Multi-Region+Cloud+Resiliency+%26+Infrastructure;Java+%26+Spring+Boot+Microservices;Terraform+IaC+%26+Cloud-Native+Architecture;GenAI+%26+Agentic+Workflow+Enablement" alt="Typing SVG" />
     </a>
   </p>
 
   <p align="center">
-    <a href="https://rohanpassi.github.io"><img src="https://img.shields.io/badge/🌐_Portfolio-rohanpassi.github.io-6366f1?style=for-the-badge&logoColor=white" alt="Portfolio" /></a>
-    <a href="mailto:rohanpassi94@gmail.com"><img src="https://img.shields.io/badge/Email-rohanpassi94@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+    <a href="https://rohanpassi.github.io" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/🌐_Portfolio-rohanpassi.github.io-6366f1?style=for-the-badge&logoColor=white" alt="Portfolio" /></a>
+    <a href="mailto:rohanpassi94@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Email-rohanpassi94@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
   </p>
 
 </div>
@@ -24,10 +24,10 @@
 
 <div align="center">
 
-[![AWS Solutions Architect Associate](https://img.shields.io/badge/AWS-Solutions_Architect_Associate-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://aws.amazon.com/certification/)
-[![AWS AI Practitioner](https://img.shields.io/badge/AWS-AI_Practitioner-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://aws.amazon.com/certification/)
-[![HashiCorp Terraform Associate](https://img.shields.io/badge/HashiCorp-Terraform_Associate-844FBA?style=for-the-badge&logo=terraform&logoColor=white)](https://www.hashicorp.com/certifications/terraform-associate)
-[![AWS Cloud Practitioner](https://img.shields.io/badge/AWS-Cloud_Practitioner-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://aws.amazon.com/certification/)
+<a href="https://aws.amazon.com/certification/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/AWS-Solutions_Architect_Associate-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS Solutions Architect Associate" /></a>
+<a href="https://aws.amazon.com/certification/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/AWS-AI_Practitioner-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS AI Practitioner" /></a>
+<a href="https://www.hashicorp.com/certifications/terraform-associate" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/HashiCorp-Terraform_Associate-844FBA?style=for-the-badge&logo=terraform&logoColor=white" alt="HashiCorp Terraform Associate" /></a>
+<a href="https://aws.amazon.com/certification/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/AWS-Cloud_Practitioner-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS Cloud Practitioner" /></a>
 
 </div>
 
@@ -143,8 +143,8 @@ const rohanPassi = {
 
 <div align="center">
   
-  [![Email](https://img.shields.io/badge/Email_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rohanpassi94@gmail.com)
-  [![Portfolio](https://img.shields.io/badge/Personal_Portfolio-6366F1?style=for-the-badge&logo=google-chrome&logoColor=white)](https://rohanpassi.github.io)
+  <a href="mailto:rohanpassi94@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Email_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://rohanpassi.github.io" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Personal_Portfolio-6366F1?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" /></a>
 
 </div>
 
