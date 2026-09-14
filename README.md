@@ -13,6 +13,7 @@
 
   <p align="center">
     <a href="https://rohanpassi.github.io" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/🌐_Portfolio-rohanpassi.github.io-6366f1?style=for-the-badge&logoColor=white" alt="Portfolio" /></a>
+    <a href="https://www.credly.com/users/rohanpassi" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Credly-Verified_Badges-FF6F00?style=for-the-badge&logo=credly&logoColor=white" alt="Credly Profile" /></a>
     <a href="mailto:rohanpassi94@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Email-rohanpassi94@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
   </p>
 
@@ -20,14 +21,14 @@
 
 ---
 
-### 🏆 Certifications & Credentials
+### 🏆 Certifications & Verified Credentials
 
 <div align="center">
 
-<a href="https://aws.amazon.com/certification/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/AWS-Solutions_Architect_Associate-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS Solutions Architect Associate" /></a>
-<a href="https://aws.amazon.com/certification/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/AWS-AI_Practitioner-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS AI Practitioner" /></a>
-<a href="https://www.hashicorp.com/certifications/terraform-associate" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/HashiCorp-Terraform_Associate-844FBA?style=for-the-badge&logo=terraform&logoColor=white" alt="HashiCorp Terraform Associate" /></a>
-<a href="https://aws.amazon.com/certification/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/AWS-Cloud_Practitioner-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS Cloud Practitioner" /></a>
+<a href="https://www.credly.com/badges/0b7f3130-a0cb-4789-b3ef-a22b2d173de4" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/AWS-Solutions_Architect_Associate-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS Certified Solutions Architect – Associate" /></a>
+<a href="https://www.credly.com/badges/d99ae693-7c63-4898-b918-a3d8345cb46d" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/AWS-AI_Practitioner-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS Certified AI Practitioner" /></a>
+<a href="https://www.credly.com/badges/591ef058-16f7-4257-b7b0-13b364d78b7c" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/HashiCorp-Terraform_Associate-844FBA?style=for-the-badge&logo=terraform&logoColor=white" alt="HashiCorp Certified Terraform Associate" /></a>
+<a href="https://www.credly.com/badges/1a344ed1-ad7a-42a5-9124-8526cf35eff8" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/AWS-Cloud_Practitioner-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS Certified Cloud Practitioner" /></a>
 
 </div>
 
